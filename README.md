@@ -24,9 +24,9 @@ Proyek ini bertujuan untuk membangun model prediktif yang dapat memprediksi ting
 
 ## **Struktur Folder**
 /my-streamlit-app |-- final_project_luna.py 
-# File utama aplikasi |-- requirements.txt 
-# Daftar dependencies |-- README.md 
-# Dokumentasi aplikasi |-- /data # Folder untuk data 
+#File utama aplikasi |-- requirements.txt 
+#Daftar dependencies |-- README.md 
+#Dokumentasi aplikasi |-- data Folder untuk data/ 
 
 ## **Penggunaan**
 Aplikasi ini memungkinkan pengguna untuk memasukkan data peminjam, seperti skor kredit (FICO), rasio penggunaan kredit (RevolUtil), dan cicilan bulanan (Installment). Berdasarkan input ini, aplikasi akan memprediksi tingkat bunga pinjaman yang optimal.
